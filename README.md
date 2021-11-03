@@ -1,4 +1,4 @@
-# TDEER🦒 (WIP)
+# TDEER (WIP)
 
 Code For TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations (EMNLP2021)
 
