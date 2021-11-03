@@ -1,0 +1,11 @@
+typeguard
+numpy
+Keras>=2.3.1
+tensorflow
+jieba
+click
+boltons
+tokenizers
+sklearn
+seqeval
+sentencepiece
