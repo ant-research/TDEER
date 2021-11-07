@@ -1,6 +1,6 @@
-# TDEER (WIP)
+# TDEER
 
-Code For TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations (EMNLP2021)
+Official Code For TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations (EMNLP2021)
 
 ## Overview
 
@@ -26,9 +26,7 @@ pip install -r requirements.txt
 
 We follow [weizhepei/CasRel](https://github.com/weizhepei/CasRel) to prepare datas.
 
-For convenience, you could download our preprocessed datasets ([Google Drive]() | [Baidu NetDisk]()).
-
-Please place the downloaded data to `data` folder.
+For convenience, we have uploaded our processed data in this repository via git-lfs. To use the processed data, you could download the data and decompress it (`data.zip`) into the `data` folder.
 
 
 ### 3. Download Pretrained BERT
@@ -151,9 +149,9 @@ CUDA_VISIBLE_DEVICES=0 python run.py \
 
 ### Pre-trained Models
 
-We release our pre-trained models for NYT, WebNLG, and NYT11-HRL datasets.
+We released our pre-trained models for NYT, WebNLG, and NYT11-HRL datasets, and uploaded them to this repository via git-lfs.
 
-Click [Google Drive]() \| [Baidu NetDisk]() to download pre-trained models and then uncompress to `ckpts` folder.
+You can download pre-trained models and then decompress them (`ckpts.zip`) to the `ckpts` folder.
 
 To use the pre-trained models, you need to download our processed datasets and specify `--rel_path` to our processed `rel2id.json`.
 
@@ -164,16 +162,31 @@ In our setting, NYT, WebNLG, and NYT11-HRL achieve the best result on Epoch 86, 
 
 1\. NYT
 
+<details>
+<summary>click to show the result screenshot.</summary>
+
 ![](docs/nyt_train_screenshot.png)
+
+</details>
 
 2\. WebNLG
 
+<details>
+<summary>click to show the result screenshot.</summary>
+
 ![](docs/webnlg_train_screenshot.png)
+
+</details>
+
 
 3\. NYT11-HRL
 
+<details>
+<summary>click to show the result screenshot.</summary>
+
 ![](docs/nyt11hrl_train_screenshot.png)
 
+</details>
 
 ## Citation
 
