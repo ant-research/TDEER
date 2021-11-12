@@ -1,5 +1,7 @@
 # TDEER (WIP)
 
+**For the latest version, plz visit 👉 https://github.com/4AI/TDEER**
+
 Code For TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations (EMNLP2021)
 
 ## Overview
