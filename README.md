@@ -1,6 +1,13 @@
-# TDEER (WIP)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tdeer-an-efficient-translating-decoding/joint-entity-and-relation-extraction-on-nyt)](https://paperswithcode.com/sota/joint-entity-and-relation-extraction-on-nyt?p=tdeer-an-efficient-translating-decoding)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tdeer-an-efficient-translating-decoding/joint-entity-and-relation-extraction-on-1)](https://paperswithcode.com/sota/joint-entity-and-relation-extraction-on-1?p=tdeer-an-efficient-translating-decoding)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tdeer-an-efficient-translating-decoding/relation-extraction-on-nyt)](https://paperswithcode.com/sota/relation-extraction-on-nyt?p=tdeer-an-efficient-translating-decoding)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/tdeer-an-efficient-translating-decoding/relation-extraction-on-webnlg)](https://paperswithcode.com/sota/relation-extraction-on-webnlg?p=tdeer-an-efficient-translating-decoding)
+
 
 **For the latest version, plz visit 👉 https://github.com/4AI/TDEER**
+
+
+# TDEER (WIP)
 
 Code For TDEER: An Efficient Translating Decoding Schema for Joint Extraction of Entities and Relations (EMNLP2021)
 
